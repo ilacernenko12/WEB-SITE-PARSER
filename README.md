@@ -2,7 +2,7 @@
 
 ## Frameworks: Apache POI, JSoup.
 
-## The program creates an excel file and enters the data we need into it.
+## The program creates an excel-file and enters the data we need into it.
 
 
 ![photo_2022-06-28_17-20-52](https://user-images.githubusercontent.com/93983025/176204788-3fb45d56-d8bb-4b75-974c-f8b89b8e659c.jpg)
